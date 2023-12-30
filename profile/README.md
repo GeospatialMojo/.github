@@ -1,4 +1,4 @@
-## GeospatialMojo 🌍🔥
+## 🌍GeospatialMojo🔥
 
 Dedicated to **geospatial**🌍 packages written in the [Mojo programming language](https://docs.modular.com/mojo/)🔥.
 
